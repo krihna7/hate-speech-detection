@@ -30,6 +30,7 @@ The system uses Natural Language Processing (NLP) techniques and a Logistic Regr
 
 ## Project Structure
 
+```text
 hate-speech-detection/
 │
 ├── data/
@@ -42,7 +43,7 @@ hate-speech-detection/
 ├── train.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Dataset
